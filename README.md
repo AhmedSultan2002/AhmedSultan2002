@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AhmedSultan2002&limit=5&theme=dark&combine_all_yearly_contributions=true&hide=B)
+![](https://github-contributor-stats.vercel.app/api?username=AhmedSultan2002&limit=5&theme=dark&combine_all_yearly_contributions=true&limit=4)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
