@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on any projects that will help me improve my web development skills.<br>🤝 I’m looking for help with any open source projects I can contribute to.<br>🌱 I’m currently learning MERN stack to have the skills to be a full stack front-end and back-end developer.<br>💬 Ask me about anything.<br>⚡ Fun fact I know how to center a div :)
+<br>👯 I’m looking to collaborate on any projects that will help me improve my development skills.<br>🤝 I’m looking for help with any open source projects I can contribute to.<br>🌱 I’m currently learning supervised learning through artificial neural networks.<br>💬 Ask me about anything.
 
 
 ## 🌐 Socials:
